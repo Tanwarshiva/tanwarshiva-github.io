@@ -19,6 +19,13 @@ Session: 2021-2022 | Percentage: 65%
 Matriculation (HBSE) | T.I.T Sr. Sec. School, Bhiwani 
 Session: 2019-2020 | Percentage: 88%
 
+## Technical Skills 
+
+- Network Security
+- iOS, Microsoft Windows and Linux
+- Risk Management
+- Log Analysis
+- Problem Solving 
 
 ## Certifications 🎓
 
